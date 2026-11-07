@@ -1,0 +1,23 @@
+# dependencies and build output
+node_modules/
+dist/
+
+# secrets
+.env
+.env.*
+
+# logs
+*.log
+npm-debug.log*
+
+# macOS and editors
+.DS_Store
+.vscode/
+.idea/
+
+# ML files that are too big for Git
+ml/data/
+ml/runs/
+*.pt
+*.ckpt
+*.h5
