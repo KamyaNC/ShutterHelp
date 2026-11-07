@@ -1,5 +1,9 @@
 # AI Photo Clicking Guide
+
+
 "STILL WORKING ON IT"
+
+
 A camera website that coaches you while you frame a shot. It overlays a grid, shows a level line, tells you which way to move ("pan left", "tilt up", "decrease exposure") and can auto-capture when the composition is good. Everything runs in the browser, so there is no upload and no lag.
 
 **v0.1 genres:** Sunset / Sunrise and Landscape.
