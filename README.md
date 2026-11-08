@@ -1,4 +1,4 @@
-# AI Photo Clicking Guide
+# ShutterHelp: AI Photo Clicking Guide
 
 
 "STILL WORKING ON IT"
